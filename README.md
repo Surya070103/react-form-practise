@@ -1,14 +1,19 @@
-# React Forms Practice
+A practice project to learn form handling and validation using React.
 
-A React forms practice app built with Vite.
+Technologies
 
-## Run
+React.js
 
-Requires Node.js. Install dependencies and start the development server:
+JavaScript
 
-```bash
-npm install
-npm run dev
-```
+HTML and CSS
 
-Run `npm run build` to create a production build and `npm run lint` to check the code.
+Concepts
+
+Form handling and validation
+
+useState hook
+
+Event handling
+
+Controlled components
